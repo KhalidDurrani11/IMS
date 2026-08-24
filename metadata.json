@@ -1,0 +1,6 @@
+{
+  "name": "Shop Stock & Sales Register",
+  "description": "Simple and complete stock, sales, udhaar, and shop management system for shopkeepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
